@@ -14,21 +14,21 @@ este proyecto contiene:
 No ejecute el script ```create_ml_project.py``` mientras se crea el proyecto, este script crea la estructura del proyecto.
 
 ```
-├── data/               # Data directory
+├── data/              # Data directory
 │   ├── raw/           # Original, immutable data
 │   ├── processed/     # Cleaned, transformed data
 │   ├── interim/       # Intermediate transformations
 │   └── external/      # Third-party data
 ├── notebooks/         # Jupyter notebooks for exploration
 ├── src/               # Source code
-│   ├── data/         # Data loading and preprocessing
-│   ├── features/     # Feature engineering
-│   ├── models/       # Model training and evaluation
+│   ├── data/          # Data loading and preprocessing
+│   ├── features/      # Feature engineering
+│   ├── models/        # Model training and evaluation
 │   ├── visualization/ # Visualization utilities
-│   └── utils/        # Helper functions
-├── models/           # Trained models
-├── reports/          # Generated reports and figures
-├── tests/            # Unit tests
-└── config/           # Configuration files
+│   └── utils/         # Helper functions
+├── models/            # Trained models
+├── reports/           # Generated reports and figures
+├── tests/             # Unit tests
+└── config/            # Configuration files
 ```
 En la carpeta ```ml_project```, el script también da instrucciones después de crear la estructura del proyecto y todos sus directorios y archivos, como instalar el entorno virtual, dependencias, etc.
