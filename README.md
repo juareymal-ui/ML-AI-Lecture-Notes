@@ -9,9 +9,10 @@ este proyecto contiene:
 1. un script de python llamdo:
 ```create_ml_project.py```
 
-[!WARNING]
-
-No ejecute el script ```create_ml_project.py``` mientras se crea el proyecto, este script crea la estructura del proyecto.
+>[!WARNING]
+>No ejecute el script ```create_ml_project.py``` al clonar el repositorio, ya que este repositorio ya tiene creada la estructura del proyecto.
+>
+El script crea la estructura del proyecto de la siguiente manera:
 
 ```
 ├── data/              # Data directory
