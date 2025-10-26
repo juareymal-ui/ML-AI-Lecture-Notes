@@ -10,8 +10,8 @@ este proyecto contiene:
 ```create_ml_project.py```
 
 >[!WARNING]
->No ejecute el script ```create_ml_project.py``` al clonar el repositorio, ya que este repositorio ya tiene creada la estructura del proyecto.
->
+> No ejecute el script ```create_ml_project.py``` al clonar el repositorio, ya que este repositorio ya tiene creada la estructura del proyecto. Este script esta hecho para usuarios de Windows.
+
 El script crea la estructura del proyecto de la siguiente manera:
 
 ```
@@ -33,3 +33,6 @@ El script crea la estructura del proyecto de la siguiente manera:
 └── config/            # Configuration files
 ```
 En la carpeta ```ml_project```, el script también da instrucciones después de crear la estructura del proyecto y todos sus directorios y archivos, como instalar el entorno virtual, dependencias, etc.
+
+>[!IMPORTANT]
+> Para configurar el entorno de trabajo, lea el archivo README.md en el directorio ml_project.
