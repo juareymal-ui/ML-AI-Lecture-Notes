@@ -1,12 +1,12 @@
-## Contenido y advertencia
+## Contenido y Advertencia
 
-este proyecto contiene:
+Este proyecto contiene:
 
 1. Un directorio/carpeta llamado:
  ```Introduction```
 1. Un directorio/carpeta llamado: 
 ```ml_project```
-1. un script de python llamdo:
+1. un script de python llamado:
 ```create_ml_project.py```
 
 >[!WARNING]
